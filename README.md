@@ -18,7 +18,7 @@ Please download it to ./data before starting the analyses.
 
 Matlab (including the Image Processing Add-On for plotting time generalization and EEG-EEG RSA results)
 
-Toolboxes for Matlab that have to be located in /toolboxes
+Toolboxes for Matlab that have to be located in ./toolboxes
 - [SPM12](https://www.fil.ion.ucl.ac.uk/spm/software/spm12/)
 - [LIBSVM](https://www.csie.ntu.edu.tw/~cjlin/libsvm/)
 - [Fieldtrip](https://www.fieldtriptoolbox.org/)
