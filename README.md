@@ -1,4 +1,4 @@
-# Object Representations Healthy Aging
+# Object Representations in Healthy Aging
 
 This repository containes code for the manuscript "Healthy aging delays and dedifferentiates high-level visual representations". 
 
