@@ -6,7 +6,7 @@ The code has been tested using Matlab R2020b on MacOS Big Sur 11.5.2 and Matlab 
 
 You can clone this repository to local using:
 ```sh
-git clone https://github.com/marleenhaupt/BrailleLetterRepresentations.git
+git clone https://github.com/marleenhaupt/ORHA.git
 ```
 
 ## Required data
