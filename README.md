@@ -1,6 +1,6 @@
 # Object Representations in Healthy Aging
 
-This repository containes code for the manuscript ["Healthy aging delays and dedifferentiates high-level visual representations"] (https://biorxiv.org/cgi/content/short/2024.07.30.605732v1). 
+This repository containes code for the manuscript ["Healthy aging delays and dedifferentiates high-level visual representations"](https://biorxiv.org/cgi/content/short/2024.07.30.605732v1). 
 
 The code has been tested using Matlab R2020b on MacOS Big Sur 11.5.2 and Matlab R2021a on CentOS 7.
 
